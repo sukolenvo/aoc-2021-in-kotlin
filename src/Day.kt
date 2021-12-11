@@ -1,13 +1,17 @@
-fun main() {
-  fun part1(input: List<String>): Int {
-    return 0
-  }
+object Day {
 
-  fun part2(input: List<String>): Int {
-    return 0
-  }
+  @JvmStatic
+  fun main(args: Array<String>) {
+    fun part1(input: List<String>): Int {
+      return 0
+    }
 
-  val input = readInput("Day")
-  println(part1(input))
-  println(part2(input))
+    fun part2(input: List<String>): Int {
+      return 0
+    }
+
+    val input = readInput(javaClass.name)
+    println(part1(input))
+    println(part2(input))
+  }
 }
