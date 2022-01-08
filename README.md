@@ -2,7 +2,7 @@
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [sukolenvo][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
-In this repository, sukolenvo is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+![img.png](img.png)
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
